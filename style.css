@@ -1,0 +1,35 @@
+body{
+  background-color: #12182E;
+  font-family: sans-serif;
+}
+
+.text_default{
+  color: #B6BCD1;
+
+}
+
+.text_warning{
+  color: #FAB30C;
+  outline: 1px solid #FAB30C;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+}
+
+.text_error{
+  color: #DE3C51;
+  font-weight: bold;
+  outline: 1px solid #DE3C51;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+}
+
+.text_comment{
+  color: #757575;
+}
+
+.text_charm{
+  color: #84F0AA;
+  outline: 1px solid #84F0AA;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+}
