@@ -23,7 +23,15 @@ img{
   color: #F5F6CE;
   background-color: #FFBF00;
   padding: 10px 20px 10px 20px;
-  height: 200px;
+  height: 150px;
+}
+
+.text_warning h2{
+  font-size: 2.8rem;
+}
+
+.text_warning p{
+  font-size: 1.2rem;
 }
 
 .text_error{
@@ -31,14 +39,30 @@ img{
   background-color: #DE3C51;
   font-weight: bold;
   padding: 10px 20px 10px 20px;
-  height: 200px;
+  height: 150px;
+}
+
+.text_error h2{
+  font-size: 2.8rem;
+}
+
+.text_error p{
+  font-size: 1.2rem;
 }
 
 .text_charm{
   color: #84F0AA;
   background-color: #2DB05B;
   padding: 10px 20px 10px 20px;
-  height: 200px;
+  height: 150px;
+}
+
+.text_charm h2{
+  font-size: 2.8rem;
+}
+
+.text_charm p{
+  font-size: 1.2rem;
 }
 
 .full_content_box{
